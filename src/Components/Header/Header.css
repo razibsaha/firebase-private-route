@@ -11,3 +11,10 @@
     color: orange;
     border-bottom: 2px solid orange;
 }
+.link nav a:active{
+    padding: 3px;
+    text-decoration: none;
+    font-weight: bold;
+    color: blue;
+    border-bottom: 2px solid blue;
+}
