@@ -1,0 +1,13 @@
+.link nav a{
+    margin: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color: crimson;
+}
+.link nav a:hover{
+    padding: 3px;
+    text-decoration: none;
+    font-weight: bold;
+    color: orange;
+    border-bottom: 2px solid orange;
+}
